@@ -1,0 +1,11 @@
+$backgroundColor1:  black;
+$backgroundColor2: #484538;
+$backgroundColor3: #56A3A6;
+
+header {
+  text-align: center;
+  padding: 1px;
+  border-bottom: 3px dashed white;
+  margin-bottom: 10px;
+  background: $backgroundColor1;
+}

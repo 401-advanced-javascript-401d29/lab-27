@@ -1,0 +1,11 @@
+$backgroundColor1:  #CAD49D;
+$backgroundColor2: white;
+$backgroundColor3: black;
+
+#root {
+  background: $backgroundColor3;
+  color: $backgroundColor2;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}

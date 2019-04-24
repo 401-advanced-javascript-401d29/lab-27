@@ -1,0 +1,15 @@
+$backgroundColor1:  black;
+$backgroundColor2: #484538;
+$backgroundColor3: #56A3A6;
+
+footer {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  background:  $backgroundColor1;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  border-top: 3px dashed white;
+  width: 100%;
+}
